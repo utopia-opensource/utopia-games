@@ -12,7 +12,7 @@ Example of user authorization on your web service in Utopia Network.
 
 ### Install
 ```
-git clone https://github.com/Sagleft/utopia-auth.git
+git clone https://github.com/utopia-opensource/utopia-auth.git
 cd utopia-auth
 mkdir view/cache
 chmod 777 view/cache
